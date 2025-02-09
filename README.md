@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NaderBhm
 - 👀 I’m interested in computer science and problem solving
-- 🌱 I’m currently learning coding in gaming developpement ( c++ and unreal engine )
+- 🌱 I’m planning on learning coding in gaming developpement ( c++ and unreal engine )
 - 💞️ I’m looking to collaborate on games projects
 - 📫 How to reach me : bhmnader@gmail.com
 - ⚡ Fun fact: I play a lot of video games 😎
